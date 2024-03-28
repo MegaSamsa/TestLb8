@@ -1,0 +1,15 @@
+E:\c#projects\lab8\lab8\bin\Debug\net6.0\lab8.exe
+E:\c#projects\lab8\lab8\bin\Debug\net6.0\lab8.deps.json
+E:\c#projects\lab8\lab8\bin\Debug\net6.0\lab8.runtimeconfig.json
+E:\c#projects\lab8\lab8\bin\Debug\net6.0\lab8.dll
+E:\c#projects\lab8\lab8\bin\Debug\net6.0\lab8.pdb
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.csproj.AssemblyReference.cache
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfoInputs.cache
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfo.cs
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.csproj.CoreCompileInputs.cache
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.dll
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\refint\lab8.dll
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.pdb
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\lab8.genruntimeconfig.cache
+E:\c#projects\lab8\lab8\obj\Debug\net6.0\ref\lab8.dll
