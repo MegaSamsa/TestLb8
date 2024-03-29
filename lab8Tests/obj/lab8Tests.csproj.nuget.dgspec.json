@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#projects\\TestLb8\\lab8Tests\\lab8Tests.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8Tests\\lab8Tests.csproj": {}
   },
   "projects": {
-    "E:\\c#projects\\TestLb8\\lab8Tests\\lab8Tests.csproj": {
+    "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8Tests\\lab8Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#projects\\TestLb8\\lab8Tests\\lab8Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8Tests\\lab8Tests.csproj",
         "projectName": "lab8Tests",
-        "projectPath": "E:\\c#projects\\TestLb8\\lab8Tests\\lab8Tests.csproj",
-        "packagesPath": "C:\\Users\\Bop_HocKoB\\.nuget\\packages\\",
-        "outputPath": "E:\\c#projects\\TestLb8\\lab8Tests\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8Tests\\lab8Tests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "G:\\VS\\add\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop_HocKoB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\c#projects\\TestLb8\\lab8\\lab8.csproj": {
-                "projectPath": "E:\\c#projects\\TestLb8\\lab8\\lab8.csproj"
+              "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8\\lab8.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8\\lab8.csproj"
               }
             }
           }
@@ -42,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -79,7 +80,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,25 +90,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\c#projects\\TestLb8\\lab8\\lab8.csproj": {
+    "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8\\lab8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#projects\\TestLb8\\lab8\\lab8.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8\\lab8.csproj",
         "projectName": "lab8",
-        "projectPath": "E:\\c#projects\\TestLb8\\lab8\\lab8.csproj",
-        "packagesPath": "C:\\Users\\Bop_HocKoB\\.nuget\\packages\\",
-        "outputPath": "E:\\c#projects\\TestLb8\\lab8\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8\\lab8.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\тестированиеПО\\lab8\\TestLb8\\lab8\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "G:\\VS\\add\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop_HocKoB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,6 +124,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -137,7 +140,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -146,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

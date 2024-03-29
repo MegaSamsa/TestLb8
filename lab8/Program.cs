@@ -8,7 +8,7 @@ namespace lab3
         {
             try
             {
-                Console.WriteLine("Введите x");
+                Console.WriteLine("Введите x:");
                 double i = double.Parse(Console.ReadLine().Trim());
 
                 Program program = new Program();
